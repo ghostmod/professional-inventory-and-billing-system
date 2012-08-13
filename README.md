@@ -1,7 +1,7 @@
 Professional Inventory And Billing System
 =========================================
 
-*Author: Harsh Gupta (harsh@techinfocomp.com)
+#Author: Harsh Gupta (harsh@techinfocomp.com)
 *http://www.techinfocomp.com
 *Copyright (c) 2012
 *License: MIT
