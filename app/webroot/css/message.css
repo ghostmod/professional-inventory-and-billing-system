@@ -1,0 +1,41 @@
+/* CSS Document */
+
+.flash{
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:12px;
+}
+
+.flash_admin{
+	border:1px #900 solid;
+	background-color:#FFF2F2;
+	color:#900;
+	width:500px;
+	padding:10px 10px 10px 10px;
+	margin:0 auto;
+}
+
+.flash_failure{
+	border:1px #900 solid;
+	background-color:#FFF2F2;
+	color:#900;
+	width:500px;
+	padding:10px 10px 10px 10px;
+	margin:0 auto;
+}
+
+.flash_success{
+	border:1px #030 solid;
+	background-color:#F1FEF2;
+	color:#030;
+	width:500px;
+	padding:10px 10px 10px 10px;
+	margin:0 auto;
+}
+
+
+/***** Messages.. *****/
+.error-message{
+	color:#990000;
+	font-family:Verdana;
+	font-size:9px;
+}
