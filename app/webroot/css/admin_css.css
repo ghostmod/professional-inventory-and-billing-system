@@ -1,0 +1,10 @@
+/* CSS Document */
+
+body{ background-color:#fbfbfb; }
+
+.lbox_bg{ background-color:#f2f1f1; border:1px #a2a2a2 solid; }
+
+.form_input{ height:35px; width:326px; border:1px #a2a2a2 solid; }
+.forn_text{ font-family:Verdana, Geneva, sans-serif; font-size:18px; }
+.text_font_login{ color:#4f4d4e; }
+.footer_login_text{ font-family:Verdana, Geneva, sans-serif; font-size:11px; color:#3c3c3c; }
